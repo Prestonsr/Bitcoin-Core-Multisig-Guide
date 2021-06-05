@@ -1,2 +1,2 @@
 # Bitcoin-Core-Multisig-Guide
-A guide on creating multi in Bitcoin Core. No need for 3rd parties.
+A guide on creating multisig in Bitcoin Core. No need for 3rd parties.
